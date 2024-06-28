@@ -78,6 +78,9 @@
         </div>
     </header-->
     <!--/ header-->
+	
+	<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-d2b8dddf-fe33-4d50-8abb-23684ee8f7d6" data-elfsight-app-lazy></div>
 
     <!-- slider_area -->
     <div class="slider_area ">
@@ -362,18 +365,7 @@
                                         <form action="#">
                                             <div class="row">
                                                 <div class="col-xl-12">
-                                                    <input type="text" placeholder="Nombre">
-                                                </div>
-                                                <div class="col-xl-12">
-                                                    <input type="text" placeholder="Correo electronico">
-                                                </div>
-                                                <div class="col-xl-12">
-                                                    <select class="form-select wide" id="default-select" class="">
-                                                        <option data-display="1 Guest">1 invitados</option>
-                                                        <option value="1">2 invitados</option>
-                                                        <option value="2">3 invitados</option>
-                                                        <option value="3">4 invitados</option>
-                                                    </select>
+                                                    <input type="text" placeholder="Nombre completo">
                                                 </div>
                                                 <div class="col-xl-12">
                                                     <textarea placeholder="Mensaje adicional"></textarea>
@@ -422,14 +414,14 @@
 
    <!-- footer_start -->
    <footer class="footer">
-    <div class="copy-right_text">
+    <div class="nuevo2 copy-right_text">
         <div class="container">
             <div class="footer_border"></div>
             <div class="row">
                 <div class="col-xl-12">
                     <p class="copy_right text-center">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://dinamicdevs.com" target="_blank">DinamicDevs</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </p>
                 </div>
