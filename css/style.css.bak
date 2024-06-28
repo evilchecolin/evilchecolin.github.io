@@ -17,6 +17,10 @@
 	width:1000px;
 }
 
+.nuevo2 {
+	height:20px;
+}
+
 /* Normal desktop :1200px. */
 /* Normal desktop :992px. */
 /* Tablet desktop :768px. */
@@ -1262,7 +1266,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
 .counter_bg {
-  background-image: url(../img/counter_bg/counter_bg.png);
+  background-image: url(../img/counter_bg/counter_bg.gif);
 }
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
