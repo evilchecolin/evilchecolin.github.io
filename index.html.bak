@@ -144,11 +144,7 @@
                         </div>
                         <span>Novio</span>
                         <h3>Sergio David</h3>
-                        <p>Many variations of passages of Lorem Ipsum available, but the majority have suffered
-                            alteration in some content of a page when looking at its layout. The point of using Lorem
-                            Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using
-                            Content here content here, making it look like readable English. Many desktop publishing
-                            packages and web page editors now use.</p>
+                        <!--p>Hola soy checolin, 23 centimetros, chanfle a la derecha una verga pa todo.</p-->
                         <div class="social_links">
                             <ul>
                                 <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
@@ -162,18 +158,15 @@
                     <div class="weding_time_line text-center">
                         <div class="single_time_line">
                             <h3>¿Como nos conocimos? </h3>
-                            <p>Many variations of passages of Lorem Ipsum available, but the majority have suffered
-                                alteration in some.</p>
+                            <p>Sergio y Mariana se conocieron en el CENLEX mientras estudiaban inglés. Desde la primera mirada, sintieron una conexión especial. Después de semanas de miradas y sonrisas cómplices, Sergio se atrevió a invitar a Mariana a tomar un café. Durante esa primera cita, conversaron durante horas, descubriendo intereses y sueños comunes. Al final de la tarde, bajo la luz del atardecer, Sergio le robó un beso a Mariana y, con una caricia traviesa, conquistó su corazón. Desde entonces, se volvieron inseparables, construyendo juntos un futuro lleno de amor, agradecidos por el destino que los unió.</p>
                         </div>
                         <div class="single_time_line">
                             <h3>La propuesta</h3>
-                            <p>Many variations of passages of Lorem Ipsum available, but the majority have suffered
-                                alteration in some.</p>
+                            <p>En un viaje inolvidable a Cancún, Sergio planeó una propuesta de matrimonio perfecta para Mariana. Durante la noche, organizó una cena romántica a la orilla del mar, iluminada por la suave luz de la luna. Mientras disfrutaban de la velada, Sergio, con el corazón latiendo rápido, se arrodilló y le pidió a Mariana que fuera su esposa. En ese momento mágico, como si el universo celebrara con ellos, pequeñas tortugas comenzaron a caminar desde la playa hacia el mar, añadiendo un toque de maravilla y simbolismo a su amor eterno.</p>
                         </div>
                         <div class="single_time_line">
                             <h3>Historia de amor</h3>
-                            <p>Many variations of passages of Lorem Ipsum available, but the majority have suffered
-                                alteration in some.</p>
+                            <p>El amor que comenzó con una simple mirada en el CENLEX floreció y creció, demostrando que el destino tiene una manera maravillosa de juntar a las personas correctas en el momento justo. Hoy, mientras se preparan para unir sus vidas en matrimonio, recuerdan con cariño aquellos primeros días, agradecidos por el camino que los llevó el uno al otro.</p>
                         </div>
                         <div class="single_time_line">
                             <h3>Al fin se casan</h3>
@@ -187,11 +180,11 @@
                         </div>
                         <span>Novia</span>
                         <h3>Mariana </h3>
-                        <p>Many variations of passages of Lorem Ipsum available, but the majority have suffered
+                        <!--p>Many variations of passages of Lorem Ipsum available, but the majority have suffered
                             alteration in some content of a page when looking at its layout. The point of using Lorem
                             Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using
                             Content here content here, making it look like readable English. Many desktop publishing
-                            packages and web page editors now use.</p>
+                            packages and web page editors now use.</p-->
                         <div class="social_links">
                             <ul>
                                 <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
@@ -372,7 +365,7 @@
                                                 </div-->
 												<!---->
                                                 <div class="col-xl-12">
-                                                    <button type="submit" class="boxed_btn3">Enviar</button>
+                                                    <button type="submit" class="boxed_btn3">Confirmar</button>
                                                 </div>
                                             </div>
                                         </form>
